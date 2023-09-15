@@ -1,0 +1,12 @@
+
+.con1 , .con2 {
+	width: 100% !important;
+	padding: 1% !important;
+}
+
+/*.main_register {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between !important;
+	align-items: center !important;
+}*/

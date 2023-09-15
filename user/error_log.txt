@@ -1,0 +1,14 @@
+[24-Aug-2023 04:00:59 UTC] PHP Notice:  Undefined index: file in C:\AppServ\www\stu\user\profile.php on line 17
+[25-Aug-2023 02:50:38 UTC] PHP Notice:  Undefined index: year in C:\AppServ\www\stu\user\profile.php on line 25
+[25-Aug-2023 02:50:38 UTC] PHP Notice:  Undefined index: nphone in C:\AppServ\www\stu\user\profile.php on line 28
+[25-Aug-2023 02:50:55 UTC] PHP Notice:  Undefined index: year in C:\AppServ\www\stu\user\profile.php on line 25
+[25-Aug-2023 02:50:55 UTC] PHP Notice:  Undefined index: nphone in C:\AppServ\www\stu\user\profile.php on line 28
+[25-Aug-2023 02:51:01 UTC] PHP Notice:  Undefined index: year in C:\AppServ\www\stu\user\profile.php on line 25
+[25-Aug-2023 03:00:25 UTC] PHP Notice:  Trying to get property 'error' of non-object in C:\AppServ\www\stu\user\profile.php on line 42
+[25-Aug-2023 04:09:54 UTC] PHP Warning:  Use of undefined constant rand - assumed 'rand' (this will throw an Error in a future version of PHP) in C:\AppServ\www\stu\user\profile.php on line 45
+[25-Aug-2023 04:09:54 UTC] PHP Warning:  file_put_contents() expects at least 2 parameters, 1 given in C:\AppServ\www\stu\user\profile.php on line 46
+[25-Aug-2023 04:10:08 UTC] PHP Warning:  file_put_contents() expects at least 2 parameters, 1 given in C:\AppServ\www\stu\user\profile.php on line 46
+[15-Sep-2023 16:29:00] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\user\profile.php on line 10
+[15-Sep-2023 16:29:00] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\user\profile.php on line 54
+[15-Sep-2023 18:52:02] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\user\profile.php on line 10
+[15-Sep-2023 18:52:02] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\user\profile.php on line 54

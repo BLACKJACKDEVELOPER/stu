@@ -1,0 +1,416 @@
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: fullname in C:\AppServ\www\stu\admin\profile.php on line 17
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: email in C:\AppServ\www\stu\admin\profile.php on line 18
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: password in C:\AppServ\www\stu\admin\profile.php on line 19
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: gender in C:\AppServ\www\stu\admin\profile.php on line 20
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: stu_id in C:\AppServ\www\stu\admin\profile.php on line 21
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: marjor in C:\AppServ\www\stu\admin\profile.php on line 22
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: class in C:\AppServ\www\stu\admin\profile.php on line 23
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: year in C:\AppServ\www\stu\admin\profile.php on line 24
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: university in C:\AppServ\www\stu\admin\profile.php on line 25
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: term in C:\AppServ\www\stu\admin\profile.php on line 26
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: nphone in C:\AppServ\www\stu\admin\profile.php on line 27
+[29-Aug-2023 02:13:13 UTC] PHP Notice:  Undefined index: file in C:\AppServ\www\stu\admin\profile.php on line 29
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: fullname in C:\AppServ\www\stu\admin\profile.php on line 17
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: email in C:\AppServ\www\stu\admin\profile.php on line 18
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: password in C:\AppServ\www\stu\admin\profile.php on line 19
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: gender in C:\AppServ\www\stu\admin\profile.php on line 20
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: stu_id in C:\AppServ\www\stu\admin\profile.php on line 21
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: marjor in C:\AppServ\www\stu\admin\profile.php on line 22
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: class in C:\AppServ\www\stu\admin\profile.php on line 23
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: year in C:\AppServ\www\stu\admin\profile.php on line 24
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: university in C:\AppServ\www\stu\admin\profile.php on line 25
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: term in C:\AppServ\www\stu\admin\profile.php on line 26
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: nphone in C:\AppServ\www\stu\admin\profile.php on line 27
+[29-Aug-2023 02:13:23 UTC] PHP Notice:  Undefined index: file in C:\AppServ\www\stu\admin\profile.php on line 29
+[31-Aug-2023 07:50:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in C:\AppServ\www\stu\admin\controler.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\stu\admin\controler.php on line 40
+[31-Aug-2023 07:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in C:\AppServ\www\stu\admin\controler.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\stu\admin\controler.php on line 40
+[31-Aug-2023 07:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in C:\AppServ\www\stu\admin\controler.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\stu\admin\controler.php on line 40
+[31-Aug-2023 07:51:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in C:\AppServ\www\stu\admin\controler.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\stu\admin\controler.php on line 40
+[31-Aug-2023 07:51:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in C:\AppServ\www\stu\admin\controler.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\stu\admin\controler.php on line 40
+[31-Aug-2023 07:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in C:\AppServ\www\stu\admin\controler.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\stu\admin\controler.php on line 40
+[31-Aug-2023 07:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in C:\AppServ\www\stu\admin\controler.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\stu\admin\controler.php on line 40
+[31-Aug-2023 08:00:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in C:\AppServ\www\stu\admin\controler.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\AppServ\www\stu\admin\controler.php on line 40
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:55 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:56 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:57 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getin in C:\AppServ\www\stu\admin\user.php on line 425
+[04-Sep-2023 07:32:58 UTC] PHP Notice:  Undefined index: getout in C:\AppServ\www\stu\admin\user.php on line 428
+[04-Sep-2023 07:46:41 UTC] PHP Notice:  Undefined index: dater in C:\AppServ\www\stu\admin\user.php on line 383
+[04-Sep-2023 07:46:41 UTC] PHP Notice:  Undefined index: fullname in C:\AppServ\www\stu\admin\user.php on line 426
+[04-Sep-2023 07:46:41 UTC] PHP Notice:  Undefined index: descript in C:\AppServ\www\stu\admin\user.php on line 429
+[04-Sep-2023 07:46:41 UTC] PHP Notice:  Undefined index: name_control in C:\AppServ\www\stu\admin\user.php on line 432
+[04-Sep-2023 07:46:41 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 436
+[04-Sep-2023 07:47:07 UTC] PHP Notice:  Undefined index: dater in C:\AppServ\www\stu\admin\user.php on line 383
+[04-Sep-2023 07:47:07 UTC] PHP Notice:  Undefined index: fullname in C:\AppServ\www\stu\admin\user.php on line 426
+[04-Sep-2023 07:47:07 UTC] PHP Notice:  Undefined index: descript in C:\AppServ\www\stu\admin\user.php on line 429
+[04-Sep-2023 07:47:07 UTC] PHP Notice:  Undefined index: name_control in C:\AppServ\www\stu\admin\user.php on line 432
+[04-Sep-2023 07:47:07 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 436
+[04-Sep-2023 07:47:19 UTC] PHP Notice:  Undefined index: fullname in C:\AppServ\www\stu\admin\user.php on line 426
+[04-Sep-2023 07:47:20 UTC] PHP Notice:  Undefined index: descript in C:\AppServ\www\stu\admin\user.php on line 429
+[04-Sep-2023 07:47:20 UTC] PHP Notice:  Undefined index: name_control in C:\AppServ\www\stu\admin\user.php on line 432
+[04-Sep-2023 07:47:20 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 436
+[04-Sep-2023 07:47:28 UTC] PHP Notice:  Undefined index: descript in C:\AppServ\www\stu\admin\user.php on line 429
+[04-Sep-2023 07:47:28 UTC] PHP Notice:  Undefined index: name_control in C:\AppServ\www\stu\admin\user.php on line 432
+[04-Sep-2023 07:47:28 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 436
+[04-Sep-2023 07:47:42 UTC] PHP Notice:  Undefined index: name_control in C:\AppServ\www\stu\admin\user.php on line 432
+[04-Sep-2023 07:47:42 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 436
+[04-Sep-2023 07:47:45 UTC] PHP Notice:  Undefined index: name_control in C:\AppServ\www\stu\admin\user.php on line 432
+[04-Sep-2023 07:47:45 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 436
+[04-Sep-2023 07:47:56 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[04-Sep-2023 07:48:53 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[04-Sep-2023 07:48:57 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[04-Sep-2023 07:49:13 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[04-Sep-2023 07:49:23 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[04-Sep-2023 07:50:30 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[04-Sep-2023 07:51:01 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[07-Sep-2023 09:48:09 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[07-Sep-2023 09:48:09 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[07-Sep-2023 09:48:32 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[07-Sep-2023 09:48:32 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[07-Sep-2023 09:49:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[07-Sep-2023 09:49:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[07-Sep-2023 09:50:43 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[07-Sep-2023 09:50:43 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:06:23 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:06:23 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:06:23 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:06:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:06:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:06:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:43 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:43 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:43 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:46 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 02:09:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 04:37:54 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 04:37:54 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 04:37:54 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 04:41:01 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 04:41:01 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 04:41:01 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 433
+[11-Sep-2023 04:41:17 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:41:18 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:41:18 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:41:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:41:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:41:48 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:42:17 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:42:17 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:42:17 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:42:54 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:42:54 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:42:54 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:43:39 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:43:39 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:43:39 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:43:51 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:43:51 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:43:51 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:44:50 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:44:50 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:44:50 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:45:13 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:45:13 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:45:13 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:46:05 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:46:05 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:46:05 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:46:35 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:46:35 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:46:35 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:47:35 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:47:35 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:47:35 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:49:28 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:49:28 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 04:49:28 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 08:06:19 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 08:06:19 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[11-Sep-2023 08:06:19 UTC] PHP Notice:  Undefined index: activity_id in C:\AppServ\www\stu\admin\user.php on line 423
+[14-Sep-2023 06:37:16 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in C:\AppServ\www\stu\db.php on line 18
+[14-Sep-2023 17:15:18] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[14-Sep-2023 17:15:18] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ')' in D:\AppServ\www\stu\db.php on line 18
+[14-Sep-2023 18:31:21] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[14-Sep-2023 18:31:21] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:10:01] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:10:01] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:20:28] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:20:28] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:21:04] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:21:04] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:22:41] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:22:41] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:22:43] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:22:43] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:22:43] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:22:43] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:22:45] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:22:45] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:22:46] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:22:46] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:22:48] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:22:48] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:26:53] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:26:53] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:28:06] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:28:06] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:28:09] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:28:09] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:28:18] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:28:18] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:33:23] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:33:23] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:33:23] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:33:23] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:33:23] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:33:23] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:34:34] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:34:34] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:34:34] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:34:34] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:34:34] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:34:34] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\profile.php on line 55
+[15-Sep-2023 10:40:23] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 10:40:39] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\profile.php on line 10
+[15-Sep-2023 14:43:56] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\user.php on line 10
+[15-Sep-2023 14:43:56] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\AppServ\www\stu\db.php on line 25
+[15-Sep-2023 14:43:56] PHP Fatal error:  Cannot use object of type mysqli as array in D:\AppServ\www\stu\admin\user.php on line 373
+[15-Sep-2023 14:45:17] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\user.php on line 10
+[15-Sep-2023 14:45:17] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\AppServ\www\stu\db.php on line 25
+[15-Sep-2023 14:45:17] PHP Fatal error:  Cannot use object of type mysqli as array in D:\AppServ\www\stu\admin\user.php on line 373
+[15-Sep-2023 14:45:18] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\user.php on line 10
+[15-Sep-2023 14:45:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\AppServ\www\stu\db.php on line 25
+[15-Sep-2023 14:45:18] PHP Fatal error:  Cannot use object of type mysqli as array in D:\AppServ\www\stu\admin\user.php on line 373
+[15-Sep-2023 14:45:21] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\user.php on line 10
+[15-Sep-2023 14:45:21] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\AppServ\www\stu\db.php on line 25
+[15-Sep-2023 14:45:21] PHP Fatal error:  Cannot use object of type mysqli as array in D:\AppServ\www\stu\admin\user.php on line 373
+[15-Sep-2023 14:45:33] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\user.php on line 10
+[15-Sep-2023 14:45:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\AppServ\www\stu\db.php on line 25
+[15-Sep-2023 14:45:33] PHP Fatal error:  Cannot use object of type mysqli as array in D:\AppServ\www\stu\admin\user.php on line 373
+[15-Sep-2023 15:29:48] PHP Notice:  A session had already been started - ignoring session_start() in D:\AppServ\www\stu\admin\controler.php on line 10
+[15-Sep-2023 15:29:48] PHP Fatal error:  Call to undefined function db() in D:\AppServ\www\stu\admin\controler.php on line 39

@@ -1,0 +1,14 @@
+[29-Aug-2023 03:48:18 UTC] PHP Notice:  Undefined index: stu_id in C:\AppServ\www\stu\controler\profile.php on line 197
+[29-Aug-2023 03:48:18 UTC] PHP Notice:  Undefined index: marjor in C:\AppServ\www\stu\controler\profile.php on line 209
+[29-Aug-2023 03:48:18 UTC] PHP Notice:  Undefined index: class in C:\AppServ\www\stu\controler\profile.php on line 221
+[29-Aug-2023 03:48:18 UTC] PHP Notice:  Undefined index: year in C:\AppServ\www\stu\controler\profile.php on line 233
+[29-Aug-2023 03:48:18 UTC] PHP Notice:  Undefined index: university in C:\AppServ\www\stu\controler\profile.php on line 245
+[29-Aug-2023 03:48:18 UTC] PHP Notice:  Undefined index: number_phone in C:\AppServ\www\stu\controler\profile.php on line 272
+[29-Aug-2023 03:49:36 UTC] PHP Notice:  Undefined index: number_phone in C:\AppServ\www\stu\controler\profile.php on line 182
+[29-Aug-2023 03:51:09 UTC] PHP Notice:  Undefined index: gender in C:\AppServ\www\stu\controler\profile.php on line 20
+[29-Aug-2023 03:51:09 UTC] PHP Notice:  Undefined index: stu_id in C:\AppServ\www\stu\controler\profile.php on line 21
+[29-Aug-2023 03:51:09 UTC] PHP Notice:  Undefined index: marjor in C:\AppServ\www\stu\controler\profile.php on line 22
+[29-Aug-2023 03:51:09 UTC] PHP Notice:  Undefined index: class in C:\AppServ\www\stu\controler\profile.php on line 23
+[29-Aug-2023 03:51:09 UTC] PHP Notice:  Undefined index: year in C:\AppServ\www\stu\controler\profile.php on line 24
+[29-Aug-2023 03:51:09 UTC] PHP Notice:  Undefined index: university in C:\AppServ\www\stu\controler\profile.php on line 25
+[29-Aug-2023 03:51:09 UTC] PHP Notice:  Undefined index: term in C:\AppServ\www\stu\controler\profile.php on line 26

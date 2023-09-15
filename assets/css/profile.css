@@ -1,0 +1,8 @@
+.main_profile {
+	width: 50% !important;
+	margin: 4% auto;
+	padding: 3%;
+/*	display: flex;
+	flex-direction: column;
+	align-items: stretch;*/
+}
